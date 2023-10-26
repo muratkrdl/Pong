@@ -7,7 +7,7 @@ Players can move balls with "wasd" and "arrows"
 
 # Gameplay
 
-<img src="--" width="auto">
+<img src="https://github.com/muratkrdl/Pong/blob/main/Gameplay.gif" width="auto">
 
 
 ## Authors
